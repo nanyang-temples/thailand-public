@@ -1,0 +1,2533 @@
+# nanyangSiteID: ID for Bangkok temples (bt) collected by Marcus Bingenheimer (mb)
+# CSFB : Number of the temple in the appendix of "Chinese Shrines - The Faith of Bangkok" (2016)
+# CSFBmainText : description of the temple in the main text of "ศาลเจ้า ศรัทธา สถาน แห่ง บางกอก Chinese Shrines - The Faith of Bangkok" (2016)
+# CGBappendix : Number of the temple in the appendix of "เทพเจ้าจีนในกรุงเทพฯ [Chinese Gods in Bangkok]" (2022)
+# DuanNo: Number of the temple in Duan, Lisheng. 1996. 段立生. 1996. Taiguo de zhongshi simiao 泰國的中式寺廟 [The Chinese temples of Thailand]. Bangkok: Pin Yo Printing.
+# FrankeNo: ID of the temple in Franke, Wolfgang. 1998. Chinese Epigraphic Materials in Thailand (Taiguo Huawen mingke huibian 泰國華文銘刻匯編).
+# HoNo: Number of the temple in Ho, Chuimei. 1995. “Chinese Temples in Bangkok. Sources of Data for 19th-Century Sino-Thai Communities.” Journal of The Siam Society Vol. 83, Parts 1 and 2 (1995).
+# khetTh/khetEn: khet = District of the Bangkok Metropolitan Region
+# deityGroup: main deity, adapted from the category in the appendix to "เทพเจ้าจีนในกรุงเทพฯ [Chinese Gods in Bangkok]" (2022)
+- nanyangSiteID: bt-mb-001
+  CSFB: csfb-a1
+  CSFBmainText: ''
+  CGBappendix: cgb-27
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้า เพ็กเล้งเกง (เจ้าพ่อมังกรเขียว)
+  templeNameEn: Phek Leng Keng Shrine
+  templeNameZh: 碧龍宮 青龍爺公
+  khetTh: คลองเตย
+  khetEn: Khlong Toei
+  deityGroup: Dragon King
+- nanyangSiteID: bt-mb-002
+  CSFB: csfb-a2
+  CSFBmainText: ''
+  CGBappendix: cgb-111
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้า พ่อเสือ (คลองเตย)
+  templeNameEn: Xuanwu Shrine (Khlong Toei)
+  templeNameZh: (孔堤)玄天古廟
+  khetTh: คลองเตย
+  khetEn: Khlong Toei
+  deityGroup: Xuanwu
+- nanyangSiteID: bt-mb-003
+  CSFB: csfb-a3
+  CSFBmainText: ''
+  CGBappendix: cgb-92
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: สมาคม สุขสบาย
+  templeNameEn: ''
+  templeNameZh: 聯福聯誼社
+  khetTh: คลองเตย
+  khetEn: Khlong Toei
+  deityGroup: Buddha
+- nanyangSiteID: bt-mb-004
+  CSFB: csfb-a4
+  CSFBmainText: csfb-m3
+  CGBappendix: cgb-5
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้า แม่อาเหนียว
+  templeNameEn: Chao Mae A Niao
+  templeNameZh: 南埔宮
+  khetTh: คลองสาน
+  khetEn: Khlong San
+  deityGroup: Guanyin
+- nanyangSiteID: bt-mb-005
+  CSFB: csfb-a5
+  CSFBmainText: ''
+  CGBappendix: cgb-17
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้า พ่อกวนอู (ตากสิน)
+  templeNameEn: Guanyu Shrine (Thaksin)
+  templeNameZh: 萬古廟
+  khetTh: คลองสาน
+  khetEn: Khlong San
+  deityGroup: Guanyu
+- nanyangSiteID: bt-mb-006
+  CSFB: csfb-a6
+  CSFBmainText: csfb-m2
+  CGBappendix: cgb-32
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: H38
+  templeNameTh: ศาลเจ้า ซำไนเก็ง
+  templeNameEn: ''
+  templeNameZh: 三奶廟 / 三奶宮
+  khetTh: คลองสาน
+  khetEn: Khlong San
+  deityGroup: ''
+- nanyangSiteID: bt-mb-007
+  CSFB: csfb-a7
+  CSFBmainText: csfb-m1
+  CGBappendix: cgb-11
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: H36
+  templeNameTh: ศาลเจ้า กวนอู (สมเด็จเจ้าพระยา)
+  templeNameEn: Guan Yu Shrine (Khlong San)
+  templeNameZh: 關帝古廟
+  khetTh: คลองสาน
+  khetEn: Khlong San
+  deityGroup: Guanyu
+- nanyangSiteID: bt-mb-008
+  CSFB: csfb-a8
+  CSFBmainText: ''
+  CGBappendix: cgb-112
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้า พ่อเสือ (พระภูมิบาล)
+  templeNameEn: Chao Pho Suea Shrine (Talat Somdet)
+  templeNameZh: 玄天上帝
+  khetTh: คลองสาน
+  khetEn: Khlong San
+  deityGroup: Xuanwu
+- nanyangSiteID: bt-mb-009
+  CSFB: csfb-a9
+  CSFBmainText: csfb-m4
+  CGBappendix: cgb-120
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้า ชิ้นทันเก็ง
+  templeNameEn: 'Chin Than Keng '
+  templeNameZh: 靖天宮
+  khetTh: คลองสาน
+  khetEn: Khlong San
+  deityGroup: ''
+- nanyangSiteID: bt-mb-010
+  CSFB: csfb-a10
+  CSFBmainText: ''
+  CGBappendix: cgb-35
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้า แม่โพสพ
+  templeNameEn: Mae Posom
+  templeNameZh: 地母聖娘廟
+  khetTh: จตุจักร
+  khetEn: Chatuchak
+  deityGroup: Mae Posom 地母聖娘
+- nanyangSiteID: bt-mb-011
+  CSFB: csfb-a11
+  CSFBmainText: ''
+  CGBappendix: cgb-61
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้า บางบัว (ศาลเจ้า พ่อสมบูรณ์)
+  templeNameEn: ''
+  templeNameZh: ''
+  khetTh: จตุจักร
+  khetEn: Chatuchak
+  deityGroup: ''
+- nanyangSiteID: bt-mb-012
+  CSFB: csfb-a12
+  CSFBmainText: ''
+  CGBappendix: cgb-72
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้า พ่อขวัญพัฒนา
+  templeNameEn: Chao Pho Khwan Phatthana Shrine
+  templeNameZh: 本頭公廟
+  khetTh: ดินแดง
+  khetEn: Din Daeng
+  deityGroup: ''
+- nanyangSiteID: bt-mb-013
+  CSFB: csfb-a13
+  CSFBmainText: csfb-m6
+  CGBappendix: cgb-102
+  DuanNo: ''
+  FrankeNo: A1.5
+  HoNo: ''
+  templeNameTh: ศาลเจ้า จุ้ยโบเบี้ยว (แม่ทับทิม)
+  templeNameEn: Chui Bo Niao (Mae Thapthim Samsen)
+  templeNameZh: 水尾聖娘廟
+  khetTh: ดุสิต
+  khetEn: Dusit
+  deityGroup: Mae Thaptim
+- nanyangSiteID: bt-mb-014
+  CSFB: csfb-a14
+  CSFBmainText: csfb-m5
+  CGBappendix: cgb-54
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้า ปุนเถ้ากิ่ง
+  templeNameEn: ''
+  templeNameZh: 本頭公
+  khetTh: ดุสิต
+  khetEn: Dusit
+  deityGroup: Bentougong
+- nanyangSiteID: bt-mb-015
+  CSFB: csfb-a15
+  CSFBmainText: csfb-m7
+  CGBappendix: cgb-2
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: H37
+  templeNameTh: ศาลเจ้า เกียนอันเกง
+  templeNameEn: Gian An Geng
+  templeNameZh: 建安宮
+  khetTh: ธนบุรี
+  khetEn: Thon Buri
+  deityGroup: Guanyin
+- nanyangSiteID: bt-mb-016
+  CSFB: csfb-a16
+  CSFBmainText: csfb-m12
+  CGBappendix: cgb-44
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้า โกวบ๊อ
+  templeNameEn: Ko Bo Shrine
+  templeNameZh: 天后聖廟
+  khetTh: ธนบุรี
+  khetEn: Thon Buri
+  deityGroup: Tianhou
+- nanyangSiteID: bt-mb-017
+  CSFB: csfb-a17
+  CSFBmainText: ''
+  CGBappendix: cgb-20
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้า บ้วนชุนตั๊ว
+  templeNameEn: ''
+  templeNameZh: 萬春壇
+  khetTh: ธนบุรี
+  khetEn: Thon Buri
+  deityGroup: ''
+- nanyangSiteID: bt-mb-018
+  CSFB: csfb-a18
+  CSFBmainText: csfb-m8
+  CGBappendix: cgb-18
+  DuanNo: ''
+  FrankeNo: A2.1
+  HoNo: ''
+  templeNameTh: ศาลเจ้า กวนอู (คลองบางหลวง)
+  templeNameEn: ''
+  templeNameZh: 關聖帝廟
+  khetTh: ธนบุรี
+  khetEn: Thon Buri
+  deityGroup: Guanyu
+- nanyangSiteID: bt-mb-019
+  CSFB: csfb-a19
+  CSFBmainText: ''
+  CGBappendix: cgb-3
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้า โอวเจียะหยี่อาเนี้ยเก็ง
+  templeNameEn: ''
+  templeNameZh: 鳥石寺
+  khetTh: ธนบุรี
+  khetEn: Thon Buri
+  deityGroup: Guanyin
+- nanyangSiteID: bt-mb-020
+  CSFB: csfb-a20
+  CSFBmainText: ''
+  CGBappendix: cgb-55
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้า สูง
+  templeNameEn: ''
+  templeNameZh: 網吏古廟
+  khetTh: ธนบุรี
+  khetEn: Thon Buri
+  deityGroup: ''
+- nanyangSiteID: bt-mb-021
+  CSFB: csfb-a21
+  CSFBmainText: ''
+  CGBappendix: cgb-52
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้า เล่าปุนเถ้ากง
+  templeNameEn: ''
+  templeNameZh: 老本頭公
+  khetTh: ธนบุรี
+  khetEn: Thon Buri
+  deityGroup: Bentougong
+- nanyangSiteID: bt-mb-022
+  CSFB: csfb-a22
+  CSFBmainText: ''
+  CGBappendix: cgb-110
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้า พ่อเสือ
+  templeNameEn: ''
+  templeNameZh: ''
+  khetTh: ธนบุรี
+  khetEn: Thon Buri
+  deityGroup: Xuantian
+- nanyangSiteID: bt-mb-023
+  CSFB: csfb-a23
+  CSFBmainText: csfb-m11
+  CGBappendix: cgb-128
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้า แซ่ซิ้ม
+  templeNameEn: Sae Sim Shrine
+  templeNameZh: 浣公書院
+  khetTh: ธนบุรี
+  khetEn: Thon Buri
+  deityGroup: ''
+- nanyangSiteID: bt-mb-024
+  CSFB: csfb-a24
+  CSFBmainText: ''
+  CGBappendix: cgb-79
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: โรงเจ เซี่ยงเข่งตั๋ว
+  templeNameEn: ''
+  templeNameZh: ''
+  khetTh: ธนบุรี
+  khetEn: Thon Buri
+  deityGroup: ''
+- nanyangSiteID: bt-mb-025
+  CSFB: csfb-a25
+  CSFBmainText: ''
+  CGBappendix: cgb-87
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: โรงเจ ซาสี่ฮุกตึ๊ง
+  templeNameEn: ''
+  templeNameZh: ''
+  khetTh: ธนบุรี
+  khetEn: Thon Buri
+  deityGroup: ''
+- nanyangSiteID: bt-mb-026
+  CSFB: csfb-a26
+  CSFBmainText: ''
+  CGBappendix: cgb-19
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้า เทียนป้อเซี่ยงตึ๊ง
+  templeNameEn: ''
+  templeNameZh: 天寶堂
+  khetTh: ธนบุรี
+  khetEn: Thon Buri
+  deityGroup: Guanyu
+- nanyangSiteID: bt-mb-027
+  CSFB: csfb-a27
+  CSFBmainText: ''
+  CGBappendix: cgb-62
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้า สำเหร่ปึงเถ่ากง
+  templeNameEn: ''
+  templeNameZh: 本頭公
+  khetTh: ธนบุรี
+  khetEn: Thon Buri
+  deityGroup: ''
+- nanyangSiteID: bt-mb-028
+  CSFB: csfb-a28
+  CSFBmainText: ''
+  CGBappendix: cgb-97
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้า พ่อพระเพลิง (สำเหร่)
+  templeNameEn: Chao Pho Phra Phloeng Shrine
+  templeNameZh: 炎光大帝
+  khetTh: ธนบุรี
+  khetEn: Thon Buri
+  deityGroup: Yanguang Dadi
+- nanyangSiteID: bt-mb-029
+  CSFB: csfb-a29
+  CSFBmainText: ''
+  CGBappendix: cgb-82
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: โรงเจ ซุงเค่งตั้ง
+  templeNameEn: ''
+  templeNameZh: 順慶堂
+  khetTh: ธนบุรี
+  khetEn: Thon Buri
+  deityGroup: ''
+- nanyangSiteID: bt-mb-030
+  CSFB: csfb-a30
+  CSFBmainText: ''
+  CGBappendix: cgb-98
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้า พ่อเห้งเจีย (เทียนเก็งเซี่ยหง่วงตั่ง)
+  templeNameEn: ''
+  templeNameZh: 大聖佛祖
+  khetTh: ธนบุรี
+  khetEn: Thon Buri
+  deityGroup: Sun Wukong
+- nanyangSiteID: bt-mb-031
+  CSFB: csfb-a31
+  CSFBmainText: csfb-m10
+  CGBappendix: cgb-95
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้า พ่อพระเพลิง (ตลาดพลู)
+  templeNameEn: Chao Pho Phra Phloeng Shrine
+  templeNameZh: 炎光大帝
+  khetTh: ธนบุรี
+  khetEn: Thon Buri
+  deityGroup: Yanguang Dadi
+- nanyangSiteID: bt-mb-032
+  CSFB: csfb-a32
+  CSFBmainText: ''
+  CGBappendix: cgb-56
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้า ตึกดิน (โถ่วหลงซัง)
+  templeNameEn: ''
+  templeNameZh: ''
+  khetTh: ธนบุรี
+  khetEn: Thon Buri
+  deityGroup: Bentougong
+- nanyangSiteID: bt-mb-033
+  CSFB: csfb-a33
+  CSFBmainText: csfb-m9
+  CGBappendix: cgb-10
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้า กวนอู (ตลาดพลู)
+  templeNameEn: Guan U (Talat Phlu)
+  templeNameZh: 關聖帝[?]
+  khetTh: ธนบุรี
+  khetEn: Thon Buri
+  deityGroup: Guanyu
+- nanyangSiteID: bt-mb-034
+  CSFB: csfb-a34
+  CSFBmainText: ''
+  CGBappendix: cgb-75
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้า ปึงเถ่ากง
+  templeNameEn: ''
+  templeNameZh: ''
+  khetTh: บางกอกใหญ่
+  khetEn: Bangkok Yai
+  deityGroup: ''
+- nanyangSiteID: bt-mb-035
+  CSFB: csfb-a35
+  CSFBmainText: ''
+  CGBappendix: cgb-8
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้า แม่กวนอิม
+  templeNameEn: ''
+  templeNameZh: n/a
+  khetTh: บางกอกใหญ่
+  khetEn: Bangkok Yai
+  deityGroup: Guanyin
+- nanyangSiteID: bt-mb-036
+  CSFB: csfb-a36
+  CSFBmainText: csfb-m13
+  CGBappendix: cgb-57
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้า ปึงเถ่ากง (ต้นมะขาม)
+  templeNameEn: Ben Tou Gong (Ton Makham)
+  templeNameZh: 老本頭公媽神廟
+  khetTh: บางกอกใหญ่
+  khetEn: Bangkok Yai
+  deityGroup: Bentougong
+- nanyangSiteID: bt-mb-037
+  CSFB: csfb-a37
+  CSFBmainText: ''
+  CGBappendix: cgb-84
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: โรงเจ กวนอิมตั้ง
+  templeNameEn: Chao Mae Kuan Im Shrine
+  templeNameZh: 觀音堂
+  khetTh: บางกอกใหญ่
+  khetEn: Bangkok Yai
+  deityGroup: Guanyin
+- nanyangSiteID: bt-mb-038
+  CSFB: csfb-a38
+  CSFBmainText: ''
+  CGBappendix: cgb-78
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: โรงเจ เล่าเซียน
+  templeNameEn: ''
+  templeNameZh: ''
+  khetTh: บางกอกใหญ่
+  khetEn: Bangkok Yai
+  deityGroup: ''
+- nanyangSiteID: bt-mb-039
+  CSFB: csfb-a39
+  CSFBmainText: ''
+  CGBappendix: cgb-89
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: โรงเจ เปาฮกเก็ง
+  templeNameEn: ''
+  templeNameZh: 保福宮
+  khetTh: บางกอกใหญ่
+  khetEn: Bangkok Yai
+  deityGroup: ''
+- nanyangSiteID: bt-mb-040
+  CSFB: csfb-a40
+  CSFBmainText: ''
+  CGBappendix: cgb-12
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้า กวนอู
+  templeNameEn: ''
+  templeNameZh: 新軒社 關公宮
+  khetTh: บางคอแหลม
+  khetEn: Bang Kho Laem
+  deityGroup: Guanyu
+- nanyangSiteID: bt-mb-041
+  CSFB: csfb-a41
+  CSFBmainText: ''
+  CGBappendix: cgb-34
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้า พ่อต้นไทร
+  templeNameEn: ''
+  templeNameZh: ''
+  khetTh: บางซื่อ
+  khetEn: Bang Sue
+  deityGroup: ''
+- nanyangSiteID: bt-mb-042
+  CSFB: csfb-a42
+  CSFBmainText: csfb-m14
+  CGBappendix: cgb-22
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้า หลวงพ่อจี๊กง
+  templeNameEn: Luang Po Ji Gong
+  templeNameZh: 濟道佛堂
+  khetTh: บางซื่อ
+  khetEn: Bang Sue
+  deityGroup: Jigong
+- nanyangSiteID: bt-mb-043
+  CSFB: csfb-a43
+  CSFBmainText: ''
+  CGBappendix: cgb-64
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้า บึงท้าวกง
+  templeNameEn: Bung Thao Kong
+  templeNameZh: 本頭公
+  khetTh: บางซื่อ
+  khetEn: Bang Sue
+  deityGroup: ''
+- nanyangSiteID: bt-mb-044
+  CSFB: csfb-a44
+  CSFBmainText: csfb-m15
+  CGBappendix: cgb-106
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้า แม่ทับทิม
+  templeNameEn: Mae Thapthim
+  templeNameZh: 水尾聖娘廟
+  khetTh: บางซื่อ
+  khetEn: Bang Sue
+  deityGroup: Mae Thapthim
+- nanyangSiteID: bt-mb-045
+  CSFB: csfb-a45
+  CSFBmainText: ''
+  CGBappendix: cgb-104
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้า บางโพ
+  templeNameEn: ''
+  templeNameZh: ''
+  khetTh: บางซื่อ
+  khetEn: Bang Sue
+  deityGroup: ''
+- nanyangSiteID: bt-mb-046
+  CSFB: csfb-a46
+  CSFBmainText: ''
+  CGBappendix: cgb-105
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้า แม่ทับทิม
+  templeNameEn: ''
+  templeNameZh: ''
+  khetTh: บางซื่อ
+  khetEn: Bang Sue
+  deityGroup: ''
+- nanyangSiteID: bt-mb-047
+  CSFB: csfb-a47
+  CSFBmainText: ''
+  CGBappendix: cgb-86
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้า พุทธมณฑลสถาน
+  templeNameEn: ''
+  templeNameZh: 西天佛國
+  khetTh: บางซื่อ
+  khetEn: Bang Sue
+  deityGroup: Buddha
+- nanyangSiteID: bt-mb-048
+  CSFB: csfb-a48
+  CSFBmainText: ''
+  CGBappendix: cgb-71
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้า ปุงเท่ากง
+  templeNameEn: ''
+  templeNameZh: 本頭公廟
+  khetTh: บางพลัด
+  khetEn: Bang Phlat
+  deityGroup: Bentougong
+- nanyangSiteID: bt-mb-049
+  CSFB: csfb-a49
+  CSFBmainText: ''
+  CGBappendix: cgb-58
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้า ปุนเถ้าก๋ง
+  templeNameEn: ''
+  templeNameZh: 老本頭公古廟
+  khetTh: บางรัก
+  khetEn: Bang Rak
+  deityGroup: Bentougong
+- nanyangSiteID: bt-mb-050
+  CSFB: csfb-a50
+  CSFBmainText: ''
+  CGBappendix: cgb-28
+  DuanNo: D20
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้า เจ็ด (ซิกเซียมา)
+  templeNameEn: San Chao 7 Shrine (Chao Mae Thapthim)
+  templeNameZh: 七聖(媽)廟
+  khetTh: บางรัก
+  khetEn: Bang Rak
+  deityGroup: Mazu
+- nanyangSiteID: bt-mb-051
+  CSFB: csfb-a51
+  CSFBmainText: csfb-m16
+  CGBappendix: cgb-1
+  DuanNo: ''
+  FrankeNo: A1.8
+  HoNo: ''
+  templeNameTh: ศาลเจ้า เจียวเองเบี้ยว
+  templeNameEn: Chiao Eng Biao Shrine (Bang Rak Shrine)
+  templeNameZh: 昭應廟
+  khetTh: บางรัก
+  khetEn: Bang Rak
+  deityGroup: ''
+- nanyangSiteID: bt-mb-052
+  CSFB: csfb-a52
+  CSFBmainText: ''
+  CGBappendix: cgb-7
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: H31
+  templeNameTh: ศาลเจ้า หน่ำให้กวนอิมเนี้ยะ
+  templeNameEn: Kuan Im Nia
+  templeNameZh: 南海觀音宮
+  khetTh: ป้อมปราบศัตรูพ่าย
+  khetEn: Pom Prap Sattru Phai
+  deityGroup: Guanyin
+- nanyangSiteID: bt-mb-053
+  CSFB: csfb-a53
+  CSFBmainText: csfb-m19
+  CGBappendix: cgb-29
+  DuanNo: D11
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้า ชิดเหี้ยม้า
+  templeNameEn: Chik Sia Ma Shrine
+  templeNameZh: 七聖媽廟
+  khetTh: ป้อมปราบศัตรูพ่าย
+  khetEn: Pom Prap Sattru Phai
+  deityGroup: Mazu
+- nanyangSiteID: bt-mb-054
+  CSFB: csfb-a54
+  CSFBmainText: ''
+  CGBappendix: cgb-123
+  DuanNo: D7
+  FrankeNo: ''
+  HoNo: H14
+  templeNameTh: ศาลเจ้า หลีตีเมี้ยว
+  templeNameEn: Lee Ti Miew
+  templeNameZh: 呂帝廟
+  khetTh: ป้อมปราบศัตรูพ่าย
+  khetEn: Pom Prap Sattru Phai
+  deityGroup: Lü Dongbin
+- nanyangSiteID: bt-mb-055
+  CSFB: csfb-a55
+  CSFBmainText: csfb-m17
+  CGBappendix: cgb-48
+  DuanNo: D2
+  FrankeNo: A1.16
+  HoNo: H9
+  templeNameTh: ศาลเจ้า ไต้ฮงกง
+  templeNameEn: Tai Hong Kong Shrine
+  templeNameZh: 大峯祖廟 / 大峰祖廟
+  khetTh: ป้อมปราบศัตรูพ่าย
+  khetEn: Pom Prap Sattru Phai
+  deityGroup: ''
+- nanyangSiteID: bt-mb-056
+  CSFB: csfb-a56
+  CSFBmainText: csfb-m18
+  CGBappendix: cgb-77
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: H2
+  templeNameTh: ศาลเจ้า กวางตุ้ง
+  templeNameEn: Kwang Tung Shrine
+  templeNameZh: 廣肇別墅/廣肇會館
+  khetTh: ป้อมปราบศัตรูพ่าย
+  khetEn: Pom Prap Sattru Phai
+  deityGroup: Buddha
+- nanyangSiteID: bt-mb-057
+  CSFB: csfb-a57
+  CSFBmainText: csfb-m21
+  CGBappendix: cgb-67
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: สมาคมสนามเป้าสามัคคีธรรม
+  templeNameEn: Sanam Pao Samakkhi Tham Association
+  templeNameZh: 天保廟
+  khetTh: พญาไท
+  khetEn: Phaya Thai
+  deityGroup: Bentougong
+- nanyangSiteID: bt-mb-058
+  CSFB: csfb-a58
+  CSFBmainText: csfb-m20
+  CGBappendix: cgb-99
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: สมาคมพุทธไตรปิฎก (ศาลปู่เฮ่งเจีย)
+  templeNameEn: ''
+  templeNameZh: 齊天宮
+  khetTh: พญาไท
+  khetEn: Phaya Thai
+  deityGroup: Sun Wukong
+- nanyangSiteID: bt-mb-059
+  CSFB: csfb-a59
+  CSFBmainText: ''
+  CGBappendix: cgb-33
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: สมาคม สหพุทธรรมิก
+  templeNameEn: 'United Buddhist Association of Bangkok '
+  templeNameZh: ''
+  khetTh: พญาไท
+  khetEn: Phaya Thai
+  deityGroup: ''
+- nanyangSiteID: bt-mb-060
+  CSFB: csfb-a60
+  CSFBmainText: ''
+  CGBappendix: cgb-38
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้า แม่ทับทิม (สมาคมพุทธกิจสงเคราะห์)
+  templeNameEn: ''
+  templeNameZh: (天道)聖母壇
+  khetTh: พญาไท
+  khetEn: Phaya Thai
+  deityGroup: Mae Thapthim
+- nanyangSiteID: bt-mb-061
+  CSFB: csfb-a61
+  CSFBmainText: ''
+  CGBappendix: cgb-114
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้า พ่อเสือ
+  templeNameEn: ''
+  templeNameZh: ''
+  khetTh: พญาไท
+  khetEn: Phaya Thai
+  deityGroup: Xuantian
+- nanyangSiteID: bt-mb-062
+  CSFB: csfb-a62
+  CSFBmainText: ''
+  CGBappendix: cgb-88
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: มูลนิธิศรัทธาสงเคราะห์ (ซึ่งเต็กเซี่ยงตึ๊ง)
+  templeNameEn: ''
+  templeNameZh: 崇德善堂
+  khetTh: พญาไท
+  khetEn: Phaya Thai
+  deityGroup: ''
+- nanyangSiteID: bt-mb-063
+  CSFB: csfb-a63
+  CSFBmainText: ''
+  CGBappendix: cgb-65
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้า ปูนเถ้ากง (สุทธิสาร)
+  templeNameEn: Pung Thao Kong
+  templeNameZh: 老本頭公
+  khetTh: พญาไท
+  khetEn: Phaya Thai
+  deityGroup: Bentougong
+- nanyangSiteID: bt-mb-064
+  CSFB: csfb-a64
+  CSFBmainText: ''
+  CGBappendix: cgb-66
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้า ปูนเถ้ากง (พหลโยธิน)
+  templeNameEn: ''
+  templeNameZh: ''
+  khetTh: พญาไท
+  khetEn: Phaya Thai
+  deityGroup: ''
+- nanyangSiteID: bt-mb-065
+  CSFB: csfb-a65
+  CSFBmainText: ''
+  CGBappendix: cgb-80
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้า เทียนเต๋าตั้ว (พ้งไล้ตั๊ว)
+  templeNameEn: Sun Wukong
+  templeNameZh: 天道蓬萊壇
+  khetTh: พญาไท
+  khetEn: Phaya Thai
+  deityGroup: Sun Wukong
+- nanyangSiteID: bt-mb-066
+  CSFB: csfb-a66
+  CSFBmainText: csfb-m25
+  CGBappendix: cgb-43
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: H35
+  templeNameTh: ศาลเจ้า แม่ทับทิม
+  templeNameEn: ''
+  templeNameZh: 天后聖母廟
+  khetTh: พระนคร
+  khetEn: Phra Nakhon
+  deityGroup: Mae Thapthim
+- nanyangSiteID: bt-mb-067
+  CSFB: csfb-a67
+  CSFBmainText: csfb-m24
+  CGBappendix: cgb-51
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้า บ้านหม้อเล่าถึงเถ่ากง
+  templeNameEn: ''
+  templeNameZh: 萬茂老本頭公古廟
+  khetTh: พระนคร
+  khetEn: Phra Nakhon
+  deityGroup: Bentougong
+- nanyangSiteID: bt-mb-068
+  CSFB: csfb-a68
+  CSFBmainText: csfb-m23
+  CGBappendix: cgb-108
+  DuanNo: D22
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้า พ่อเสือ
+  templeNameEn: ''
+  templeNameZh: 玄天上帝廟
+  khetTh: พระนคร
+  khetEn: Phra Nakhon
+  deityGroup: Xuanwu
+- nanyangSiteID: bt-mb-069
+  CSFB: csfb-a69
+  CSFBmainText: csfb-m22
+  CGBappendix: cgb-94
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้า พ่อหนู
+  templeNameEn: ''
+  templeNameZh: 昭抱魯爺廟
+  khetTh: พระนคร
+  khetEn: Phra Nakhon
+  deityGroup: ''
+- nanyangSiteID: bt-mb-070
+  CSFB: csfb-a70
+  CSFBmainText: ''
+  CGBappendix: cgb-81
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้า บ้วนฮัว (มูลนิธิพุทธทีปกร)
+  templeNameEn: Puthathippakorn Foundation (Buan Hua)
+  templeNameZh: 萬華佛教社
+  khetTh: ยานนาวา
+  khetEn: Yan Nawa
+  deityGroup: ''
+- nanyangSiteID: bt-mb-071
+  CSFB: csfb-a71
+  CSFBmainText: ''
+  CGBappendix: cgb-69
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้า เหล่าปึงเถ้ากงม่า
+  templeNameEn: ''
+  templeNameZh: 老本頭公媽古廟
+  khetTh: ยานนาวา
+  khetEn: Yan Nawa
+  deityGroup: ''
+- nanyangSiteID: bt-mb-072
+  CSFB: csfb-a72
+  CSFBmainText: ''
+  CGBappendix: cgb-83
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: โรงเจ ปอเก่งตั้ง
+  templeNameEn: ''
+  templeNameZh: 寶慶佛堂
+  khetTh: วัฒนา
+  khetEn: Watthana
+  deityGroup: ''
+- nanyangSiteID: bt-mb-073
+  CSFB: csfb-a73
+  CSFBmainText: csfb-m34
+  CGBappendix: cgb-129
+  DuanNo: ''
+  FrankeNo: A1.13
+  HoNo: A11
+  templeNameTh: ศาลเจ้า โรงเกือก (ศาลเจ้า ฮ้อนหว่องกุง)
+  templeNameEn: San Chao Rong Kueak (Han Wang Gong)
+  templeNameZh: 漢王公
+  khetTh: สัมพันธวงศ์
+  khetEn: Samphanthawong
+  deityGroup: ''
+- nanyangSiteID: bt-mb-074
+  CSFB: csfb-a74
+  CSFBmainText: csfb-m33
+  CGBappendix: cgb-23
+  DuanNo: ''
+  FrankeNo: A1.2
+  HoNo: A12
+  templeNameTh: ศาลเจ้า โจวซือก๋ง
+  templeNameEn: 'Chow Sue Kong (A 1.2) '
+  templeNameZh: 順興宮
+  khetTh: สัมพันธวงศ์
+  khetEn: Samphanthawong
+  deityGroup: ''
+- nanyangSiteID: bt-mb-075
+  CSFB: csfb-a75
+  CSFBmainText: csfb-m32
+  CGBappendix: cgb-101
+  DuanNo: D13
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้า เห้งเจีย (ศาลเจ้า พ่อเห้งเจีย )
+  templeNameEn: (Pho) Hengchia (Sun Wukong Shrine)
+  templeNameZh: 大聖佛祖
+  khetTh: สัมพันธวงศ์
+  khetEn: Samphanthawong
+  deityGroup: Sun Wukong
+- nanyangSiteID: bt-mb-076
+  CSFB: csfb-a76
+  CSFBmainText: ''
+  CGBappendix: cgb-121
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้า ต้นไทร
+  templeNameEn: ??
+  templeNameZh: ''
+  khetTh: สัมพันธวงศ์
+  khetEn: Samphanthawong
+  deityGroup: Lü Dongbin
+- nanyangSiteID: bt-mb-077
+  CSFB: csfb-a77
+  CSFBmainText: ''
+  CGBappendix: cgb-42
+  DuanNo: ''
+  FrankeNo: A1.15
+  HoNo: ''
+  templeNameTh: ศาลเจ้า แม่ทับทิม
+  templeNameEn: Chao Mae Thapthim Shrine
+  templeNameZh: 福蓮宮
+  khetTh: สัมพันธวงศ์
+  khetEn: Samphanthawong
+  deityGroup: Mae Thapthim? (Bentouma)
+- nanyangSiteID: bt-mb-078
+  CSFB: csfb-a78
+  CSFBmainText: ''
+  CGBappendix: cgb-60
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้า เลี้ยงเป็ด(=ศาลเจ้า เล่าปึงเถ่ากง)
+  templeNameEn: Breeding Duck shrine (Lao Bentou gong)
+  templeNameZh: 老本頭公廟
+  khetTh: สัมพันธวงศ์
+  khetEn: Samphanthawong
+  deityGroup: Bentougong
+- nanyangSiteID: bt-mb-079
+  CSFB: csfb-a79
+  CSFBmainText: csfb-m31
+  CGBappendix: cgb-15
+  DuanNo: ''
+  FrankeNo: A1.17
+  HoNo: H28
+  templeNameTh: ศาลเจ้า กวนอู  (ถนนฟาดสาย)
+  templeNameEn: Guanyu Shrine
+  templeNameZh: 關聖廟
+  khetTh: สัมพันธวงศ์
+  khetEn: Samphanthawong
+  deityGroup: Guanyu
+- nanyangSiteID: bt-mb-080
+  CSFB: csfb-a80
+  CSFBmainText: csfb-m30
+  CGBappendix: cgb-6
+  DuanNo: D6
+  FrankeNo: A1.12
+  HoNo: H3
+  templeNameTh: ศาลเจ้า อาเนี้ยเก็ง (ศาลเจ้า แม่กวนอิมฉือปุยเนี่ยเบี้ย)
+  templeNameEn: Guanyin Shrine
+  templeNameZh: 觀音古廟
+  khetTh: สัมพันธวงศ์
+  khetEn: Samphanthawong
+  deityGroup: Guanyin
+- nanyangSiteID: bt-mb-081
+  CSFB: csfb-a81
+  CSFBmainText: ''
+  CGBappendix: cgb-26
+  DuanNo: ''
+  FrankeNo: A1.11
+  HoNo: ''
+  templeNameTh: ศาลเจ้า เฃี้ยอึ้งกง
+  templeNameEn: City Pillar Shrine
+  templeNameZh: 城隍廟
+  khetTh: สัมพันธวงศ์
+  khetEn: Samphanthawong
+  deityGroup: ''
+- nanyangSiteID: bt-mb-082
+  CSFB: csfb-a82
+  CSFBmainText: csfb-m27
+  CGBappendix: cgb-21
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: โรงเจบุญสมาคม
+  templeNameEn: Rongje Bunsamakhom
+  templeNameZh: 萬金福壽壇
+  khetTh: สัมพันธวงศ์
+  khetEn: Samphanthawong
+  deityGroup: Nine Emperors
+- nanyangSiteID: bt-mb-083
+  CSFB: csfb-a83
+  CSFBmainText: ''
+  CGBappendix: cgb-14
+  DuanNo: D5
+  FrankeNo: A1.14
+  HoNo: H21
+  templeNameTh: ศาลเจ้า กวนอู (ศาลเจ้า กวงเอี๊ยะ)
+  templeNameEn: Guanyu (and Stallion) Shrine
+  templeNameZh: 關帝古廟
+  khetTh: สัมพันธวงศ์
+  khetEn: Samphanthawong
+  deityGroup: Guanyu
+- nanyangSiteID: bt-mb-084
+  CSFB: csfb-a84
+  CSFBmainText: ''
+  CGBappendix: cgb-4
+  DuanNo: ''
+  FrankeNo: A1.10
+  HoNo: H15
+  templeNameTh: ศาลเจ้า อาเบี้ย
+  templeNameEn: A nia keng shrine
+  templeNameZh: 觀音聖廟
+  khetTh: สัมพันธวงศ์
+  khetEn: Samphanthawong
+  deityGroup: Guanyin
+- nanyangSiteID: bt-mb-085
+  CSFB: csfb-a85
+  CSFBmainText: csfb-m29
+  CGBappendix: cgb-109
+  DuanNo: D14
+  FrankeNo: A1.3
+  HoNo: H5
+  templeNameTh: ศาลเจ้า เล่าปูนเถ้ากง
+  templeNameEn: Lao bentou gong
+  templeNameZh: 大本頭公廟/老本頭公廟
+  khetTh: สัมพันธวงศ์
+  khetEn: Samphanthawong
+  deityGroup: Xuantian (& Bentougong)
+- nanyangSiteID: bt-mb-086
+  CSFB: csfb-a86
+  CSFBmainText: csfb-m26
+  CGBappendix: cgb-122
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: H26
+  templeNameTh: ศาลเจ้า จุนเสียงโจซือ
+  templeNameEn: Chun Sieng Cho Sue Shrine
+  templeNameZh: 尊上祖師
+  khetTh: สัมพันธวงศ์
+  khetEn: Samphanthawong
+  deityGroup: Lü Dongbin
+- nanyangSiteID: bt-mb-087
+  CSFB: csfb-a87
+  CSFBmainText: csfb-m28
+  CGBappendix: cgb-53
+  DuanNo: D15
+  FrankeNo: A1.4
+  HoNo: H6
+  templeNameTh: ศาลเจ้า ซินปู้นเถ่าก๋ง
+  templeNameEn: Sin Pun Tao Gong
+  templeNameZh: 新本頭公廟
+  khetTh: สัมพันธวงศ์
+  khetEn: Samphanthawong
+  deityGroup: Bentougong
+- nanyangSiteID: bt-mb-088
+  CSFB: csfb-a88
+  CSFBmainText: ''
+  CGBappendix: cgb-47
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้า ซาไชส่วย
+  templeNameEn: ''
+  templeNameZh: ''
+  khetTh: คันนายาว
+  khetEn: Khan Na Yao
+  deityGroup: ''
+- nanyangSiteID: bt-mb-089
+  CSFB: csfb-a89
+  CSFBmainText: ''
+  CGBappendix: cgb-16
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้า กวนอู
+  templeNameEn: Chao Pho Kuan U Shrine
+  templeNameZh: 協天大帝廟
+  khetTh: คันนายาว
+  khetEn: Khan Na Yao
+  deityGroup: Guanyu
+- nanyangSiteID: bt-mb-090
+  CSFB: csfb-a90
+  CSFBmainText: ''
+  CGBappendix: cgb-125
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้า ไท้เชียง เหล่ากุง
+  templeNameEn: ''
+  templeNameZh: ''
+  khetTh: จอมทอง
+  khetEn: Chom Thong
+  deityGroup: ''
+- nanyangSiteID: bt-mb-091
+  CSFB: csfb-a91
+  CSFBmainText: csfb-m35
+  CGBappendix: cgb-41
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้า ปูนเจ้าม้า (ศาลเจ้า แม่ทับทิม)
+  templeNameEn: ''
+  templeNameZh: 天后聖母
+  khetTh: จอมทอง
+  khetEn: Chom Thong
+  deityGroup: ''
+- nanyangSiteID: bt-mb-092
+  CSFB: csfb-a92
+  CSFBmainText: ''
+  CGBappendix: cgb-93
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: โรงเจปออึ้งตึ้ง   ศาลเจ้าซ่งเหล่งซัวโจวซือ
+  templeNameEn: ''
+  templeNameZh: 報恩堂 宋靈山祖師
+  khetTh: จอมทอง
+  khetEn: Chom Thong
+  deityGroup: ''
+- nanyangSiteID: bt-mb-093
+  CSFB: csfb-a93
+  CSFBmainText: ''
+  CGBappendix: cgb-126
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้า แป๊ะกง (ศาลเจ้า สัมโพธิญาณ) = มูลนิธิ ธรรม ประทีป สัมโพธิญาณ
+  templeNameEn: Prathip Sampoethiyan Foundation
+  templeNameZh: 玉虛宮 / 三清善堂
+  khetTh: จอมทอง
+  khetEn: Chom Thong
+  deityGroup: ''
+- nanyangSiteID: bt-mb-094
+  CSFB: csfb-a94
+  CSFBmainText: csfb-m36
+  CGBappendix: cgb-63
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้า พ่อสมบุญ (ฝั่งโขง)
+  templeNameEn: ''
+  templeNameZh: 本頭古廟
+  khetTh: ดอนเมือง
+  khetEn: Don Mueang
+  deityGroup: ''
+- nanyangSiteID: bt-mb-095
+  CSFB: csfb-a95
+  CSFBmainText: csfb-m37
+  CGBappendix: cgb-100
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้า พ่อเฮ่งเจีย
+  templeNameEn: Chao Por Heng Jia Shrine
+  templeNameZh: 玉福堂 / 大聖佛祖
+  khetTh: ตลิ่งชัน
+  khetEn: Taling Chan
+  deityGroup: Sun Wukong
+- nanyangSiteID: bt-mb-096
+  CSFB: csfb-a96
+  CSFBmainText: ''
+  CGBappendix: cgb-25
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้า พ่อเซี่ยมซือกง
+  templeNameEn: ''
+  templeNameZh: 禪師公廟
+  khetTh: ตลิ่งชัน
+  khetEn: Taling Chan
+  deityGroup: ''
+- nanyangSiteID: bt-mb-097
+  CSFB: csfb-a97
+  CSFBmainText: ''
+  CGBappendix: ''
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้า พ่อจุ้ย
+  templeNameEn: ''
+  templeNameZh: ''
+  khetTh: ตลิ่งชัน
+  khetEn: Taling Chan
+  deityGroup: Sun Wukong
+- nanyangSiteID: bt-mb-098
+  CSFB: csfb-a98
+  CSFBmainText: ''
+  CGBappendix: cgb-45
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้า แม่โพสพ
+  templeNameEn: ''
+  templeNameZh: (泰京空賛) 天后聖母
+  khetTh: บางกะปิ
+  khetEn: Bang Kapi
+  deityGroup: Tianhou
+- nanyangSiteID: bt-mb-099
+  CSFB: csfb-a99
+  CSFBmainText: ''
+  CGBappendix: cgb-116
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้า พ่อเสือ
+  templeNameEn: 'Chao Por Suea Shrine '
+  templeNameZh: 玄天上帝廟
+  khetTh: บางกะปิ
+  khetEn: Bang Kapi
+  deityGroup: Xuantian
+- nanyangSiteID: bt-mb-100
+  CSFB: csfb-a100
+  CSFBmainText: ''
+  CGBappendix: cgb-68
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้า ปึงเถ่ากง (สุขาภิบาล ๓)
+  templeNameEn: ''
+  templeNameZh: ''
+  khetTh: บางกะปิ
+  khetEn: Bang Kapi
+  deityGroup: Bentougong
+- nanyangSiteID: bt-mb-101
+  CSFB: csfb-a101
+  CSFBmainText: ''
+  CGBappendix: cgb-50
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: มูลนิธิโพธิภาวนาสงเคราะห์ (จิบเสียงเซี่ยงตึ๊ง)
+  templeNameEn: ''
+  templeNameZh: 菩提佛教社集善善堂
+  khetTh: บางเขน
+  khetEn: Bang Khen
+  deityGroup: Buddha
+- nanyangSiteID: bt-mb-102
+  CSFB: csfb-a102
+  CSFBmainText: ''
+  CGBappendix: cgb-90
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้า หมูทอง
+  templeNameEn: ''
+  templeNameZh: 三寶公
+  khetTh: บางแค
+  khetEn: Bang Khae
+  deityGroup: ''
+- nanyangSiteID: bt-mb-103
+  CSFB: csfb-a103
+  CSFBmainText: ''
+  CGBappendix: cgb-115
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้า เทียนเต็กเฮี่ยงตั๊ว
+  templeNameEn: ''
+  templeNameZh: ''
+  khetTh: บางแค
+  khetEn: Bang Khae
+  deityGroup: Xuantian
+- nanyangSiteID: bt-mb-104
+  CSFB: csfb-a104
+  CSFBmainText: ''
+  CGBappendix: cgb-117
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: มูลนิธิธนาคารเพิ่มบุญ / ศาลเจ้าพ่อเสือบางแค
+  templeNameEn: Perm Boon Bank Foundation / Pho Suea Shrine
+  templeNameZh: ''
+  khetTh: บางแค
+  khetEn: Bang Khae
+  deityGroup: Xuantian
+- nanyangSiteID: bt-mb-105
+  CSFB: csfb-a105
+  CSFBmainText: ''
+  CGBappendix: cgb-36
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้า เทวาลัยท้าวมหาพรหม
+  templeNameEn: Thewalai Thao Mahaprom
+  templeNameZh: 梵天大帝
+  khetTh: บางแค
+  khetEn: Bang Khae
+  deityGroup: ''
+- nanyangSiteID: bt-mb-106
+  CSFB: csfb-a106
+  CSFBmainText: ''
+  CGBappendix: cgb-91
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: โรงเจ เล้งเทียนกิมยกตัว
+  templeNameEn: ''
+  templeNameZh: ''
+  khetTh: บางแค
+  khetEn: Bang Khae
+  deityGroup: ''
+- nanyangSiteID: bt-mb-107
+  CSFB: csfb-a107
+  CSFBmainText: csfb-m39
+  CGBappendix: cgb-103
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้า แม่ทับทิม (หลักสอง)
+  templeNameEn: ''
+  templeNameZh: 水尾聖娘廟
+  khetTh: บางแค
+  khetEn: Bang Khae
+  deityGroup: Mae Thapthim
+- nanyangSiteID: bt-mb-108
+  CSFB: csfb-a108
+  CSFBmainText: csfb-m38
+  CGBappendix: cgb-127
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: โรงเจ ซําป้อหยี่
+  templeNameEn: Rong Che Sam Po Yi
+  templeNameZh: 三寶寺
+  khetTh: บางแค
+  khetEn: Bang Khae
+  deityGroup: ''
+- nanyangSiteID: bt-mb-109
+  CSFB: csfb-a109
+  CSFBmainText: csfb-m40
+  CGBappendix: cgb-59
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้า ปึงเถ่ากง (ประเวศ)
+  templeNameEn: ''
+  templeNameZh: 本頭公廟
+  khetTh: ประเวศ
+  khetEn: Prawet
+  deityGroup: ''
+- nanyangSiteID: bt-mb-110
+  CSFB: csfb-a110
+  CSFBmainText: ''
+  CGBappendix: cgb-96
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้า พ่อไฟ
+  templeNameEn: Chao Pho Phra Phloeng Shrine
+  templeNameZh: 火神爺廟/南極大帝
+  khetTh: ภาษีเจริญ
+  khetEn: Phasi Charoen
+  deityGroup: Yanguang dadi
+- nanyangSiteID: bt-mb-111
+  CSFB: csfb-a111
+  CSFBmainText: ''
+  CGBappendix: cgb-85
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: โรงเจ พูทีอึ้ง
+  templeNameEn: ''
+  templeNameZh: 大慶菩提園
+  khetTh: ภาษีเจริญ
+  khetEn: Phasi Charoen
+  deityGroup: ''
+- nanyangSiteID: bt-mb-112
+  CSFB: csfb-a112
+  CSFBmainText: csfb-m43
+  CGBappendix: cgb-13
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้า รางบัว (ศาลเจ้า พ่อกวนอู)
+  templeNameEn: Rang Bua (Guan Yu Shrine)
+  templeNameZh: 關聖廟
+  khetTh: ภาษีเจริญ
+  khetEn: Phasi Charoen
+  deityGroup: Guanyu
+- nanyangSiteID: bt-mb-113
+  CSFB: csfb-a113
+  CSFBmainText: csfb-m42
+  CGBappendix: cgb-113
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้า ขุนด่านเจ้าพ่อเสือ
+  templeNameEn: Khun Dan Chao Pho Suea
+  templeNameZh: 玄天上帝
+  khetTh: ภาษีเจริญ
+  khetEn: Phasi Charoen
+  deityGroup: Xuantian
+- nanyangSiteID: bt-mb-114
+  CSFB: csfb-a114
+  CSFBmainText: ''
+  CGBappendix: cgb-74
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้า ปึงเถ่ากง
+  templeNameEn: ''
+  templeNameZh: ''
+  khetTh: ภาษีเจริญ
+  khetEn: Phasi Charoen
+  deityGroup: Bentougong
+- nanyangSiteID: bt-mb-115
+  CSFB: csfb-a115
+  CSFBmainText: ''
+  CGBappendix: cgb-24
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้า เจี่ยเทพธิดา
+  templeNameEn: Jia Thepthida
+  templeNameZh: 謝聖仙娘
+  khetTh: ภาษีเจริญ
+  khetEn: Phasi Charoen
+  deityGroup: ''
+- nanyangSiteID: bt-mb-116
+  CSFB: csfb-a116
+  CSFBmainText: csfb-m41
+  CGBappendix: cgb-73
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้า ปึงเถ่ากง (สมาคมมิตรภาพบางแค)
+  templeNameEn: Ben Tou Gong Shrine (Mittraphap Bang Khae Association / Bang Khae
+    Friendship Foundation)
+  templeNameZh: 本頭公廟 // 友誼廳
+  khetTh: ภาษีเจริญ
+  khetEn: Phasi Charoen
+  deityGroup: Bentougong
+- nanyangSiteID: bt-mb-117
+  CSFB: csfb-a117
+  CSFBmainText: ''
+  CGBappendix: cgb-70
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้า ปึงเถ่ากง
+  templeNameEn: Chao Pho Ping Thao Kong
+  templeNameZh: 本頭公廟
+  khetTh: วังทองหลาง
+  khetEn: Wang Thonglang
+  deityGroup: Bentougong
+- nanyangSiteID: bt-mb-118
+  CSFB: csfb-a118
+  CSFBmainText: ''
+  CGBappendix: cgb-46
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้า พ่อสามพี่น้อง
+  templeNameEn: Siang Tek Huk Jong Tew
+  templeNameZh: 善德佛祖壇
+  khetTh: วังทองหลาง
+  khetEn: Wang Thonglang
+  deityGroup: ''
+- nanyangSiteID: bt-mb-119
+  CSFB: ' '
+  CSFBmainText: ''
+  CGBappendix: cgb-76
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้า พ่อสมบุญ
+  templeNameEn: Chao Pho Sombun
+  templeNameZh: 老本頭公
+  khetTh: สายไหม
+  khetEn: Sai Mai
+  deityGroup: Bentougong
+- nanyangSiteID: bt-mb-120
+  CSFB: csfb-a120
+  CSFBmainText: ''
+  CGBappendix: cgb-9
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: โรงเจ มหาโพธิสัตว์กวนอิม
+  templeNameEn: ''
+  templeNameZh: ''
+  khetTh: บางขุนเทียน
+  khetEn: Bang Khun Thian
+  deityGroup: Guanyin
+- nanyangSiteID: bt-mb-121
+  CSFB: csfb-a121
+  CSFBmainText: csfb-m45
+  CGBappendix: ''
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้า มิ่งเด็กเจ้าพ่อเขาตกองค์ที่ 2
+  templeNameEn: Min Dek Chao Pho Khao Tok
+  templeNameZh: 民德廟
+  khetTh: บางขุนเทียน
+  khetEn: Bang Khun Thian
+  deityGroup: ''
+- nanyangSiteID: bt-mb-122
+  CSFB: csfb-a122
+  CSFBmainText: ''
+  CGBappendix: cgb-124
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้า แม่มังกรทอง
+  templeNameEn: Mae Mankorn
+  templeNameZh: 龍母娘娘 + 南天門感天大帝廟
+  khetTh: บางขุนเทียน
+  khetEn: Bang Khun Thian
+  deityGroup: ''
+- nanyangSiteID: bt-mb-123
+  CSFB: csfb-a123
+  CSFBmainText: csfb-m44
+  CGBappendix: cgb-107
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้า แม่ทับทิม
+  templeNameEn: Mae Thapthim
+  templeNameZh: 水尾聖娘廟
+  khetTh: บางขุนเทียน
+  khetEn: Bang Khun Thian
+  deityGroup: ''
+- nanyangSiteID: bt-mb-124
+  CSFB: csfb-a124
+  CSFBmainText: ''
+  CGBappendix: ''
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: วิหารเทพ (มูลนิธิอาสาหนองจอก)
+  templeNameEn: Volunteer Foundation Nong Chok
+  templeNameZh: 富貴宮
+  khetTh: หนองจอก
+  khetEn: Nong Chok
+  deityGroup: ''
+- nanyangSiteID: bt-mb-125
+  CSFB: ''
+  CSFBmainText: ''
+  CGBappendix: ''
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้าเหล่าปึงเถ่ากง
+  templeNameEn: Peng Kao Kong
+  templeNameZh: 老本頭公
+  khetTh: ดินแดง
+  khetEn: Din Daeng
+  deityGroup: Bentougong
+- nanyangSiteID: bt-mb-126
+  CSFB: ''
+  CSFBmainText: ''
+  CGBappendix: ''
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: โรงเจเสี่ยงเข่งตึ้ง
+  templeNameEn: Rong Jae Siang Kaeng Tueng
+  templeNameZh: 善慶佛堂 / 斗姥元君
+  khetTh: ธนบุรี
+  khetEn: Thon Buri
+  deityGroup: ''
+- nanyangSiteID: bt-mb-127
+  CSFB: ''
+  CSFBmainText: ''
+  CGBappendix: ''
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้าแม่หม่าโจ้ว
+  templeNameEn: Mazu Shrine
+  templeNameZh: 媽祖廟
+  khetTh: คลองสาน
+  khetEn: Khlong San
+  deityGroup: Mazu / Tianhou
+- nanyangSiteID: bt-mb-128
+  CSFB: ''
+  CSFBmainText: ''
+  CGBappendix: ''
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: สมาคมเผยแผ่คุณธรรม เต็กก่า จีจินเกาะ
+  templeNameEn: Chee Chin Khor Moral Up-lifting for Benefiction Foundation
+  templeNameZh: 泰國德教會紫真閣
+  khetTh: คลองสาน
+  khetEn: Khlong San
+  deityGroup: ''
+- nanyangSiteID: bt-mb-129
+  CSFB: ''
+  CSFBmainText: ''
+  CGBappendix: ''
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลปึงเถ่ากงม่า (ตลาดท่าดินแดง)
+  templeNameEn: ''
+  templeNameZh: 本頭公媽廟
+  khetTh: คลองสาน
+  khetEn: Khlong San
+  deityGroup: Bentouma
+- nanyangSiteID: bt-mb-130
+  CSFB: ''
+  CSFBmainText: ''
+  CGBappendix: ''
+  DuanNo: D12
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: โรงเจซินเฮงตั๊ว
+  templeNameEn: Sin Heng Tua Shrine
+  templeNameZh: 新興壇
+  khetTh: ป้อมปราบศัตรูพ่าย
+  khetEn: Pom Prap Sattru Phai
+  deityGroup: Mazu / Tianhou
+- nanyangSiteID: bt-mb-131
+  CSFB: ''
+  CSFBmainText: ''
+  CGBappendix: ''
+  DuanNo: D23
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: โรงเจพุทธศาสนกมาลาสมาคม
+  templeNameEn: ''
+  templeNameZh: (泰京)蓮華佛教社
+  khetTh: ป้อมปราบศัตรูพ่าย
+  khetEn: Pom Prap Sattru Phai
+  deityGroup: Shakyamuni
+- nanyangSiteID: bt-mb-132
+  CSFB: ''
+  CSFBmainText: ''
+  CGBappendix: ''
+  DuanNo: D24
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: นครหลวงพุทธสมาคม
+  templeNameEn: Nakorn Luang Phutthasamakhom
+  templeNameZh: 京都蓬萊九逍閣
+  khetTh: ป้อมปราบศัตรูพ่าย
+  khetEn: Pom Prap Sattru Phai
+  deityGroup: 何野雲 (=Shimuxian 蝨母仙 https://zh.wikipedia.org/wiki/%E8%9D%A8%E6%AF%8D%E4%BB%99_(%E6%BD%AE%E6%B1%95)
+    )
+- nanyangSiteID: bt-mb-133
+  CSFB: ''
+  CSFBmainText: ''
+  CGBappendix: ''
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: โรงเจ ฮกเอี้ยง เซี้ยงตึ้ง
+  templeNameEn: ''
+  templeNameZh: 復陽善堂
+  khetTh: ป้อมปราบศัตรูพ่าย
+  khetEn: Pom Prap Sattru Phai
+  deityGroup: ''
+- nanyangSiteID: bt-mb-134
+  CSFB: ''
+  CSFBmainText: ''
+  CGBappendix: ''
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลพ่อปูุเจ้ายี่กอฮง
+  templeNameEn: Yi Kor Hong Shrine
+  templeNameZh: 二哥豐廟
+  khetTh: ป้อมปราบศัตรูพ่าย
+  khetEn: Pom Prap Sattru Phai
+  deityGroup: ''
+- nanyangSiteID: bt-mb-135
+  CSFB: ''
+  CSFBmainText: ''
+  CGBappendix: ''
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ??
+  templeNameEn: ??
+  templeNameZh: 福境平安(above door)
+  khetTh: ราชเทวี
+  khetEn: Ratchathewi
+  deityGroup: Bentougong
+- nanyangSiteID: bt-mb-136
+  CSFB: ''
+  CSFBmainText: ''
+  CGBappendix: ''
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: โรงเจโพ้วเต็กตึ๊ง มักกะสัน
+  templeNameEn: Poh Teck Tung
+  templeNameZh: 普德善堂
+  khetTh: ราชเทวี
+  khetEn: Ratchathewi
+  deityGroup: Bentougong / 財神
+- nanyangSiteID: bt-mb-137
+  CSFB: ''
+  CSFBmainText: ''
+  CGBappendix: ''
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ตำหนักพระแม่กวนอิม มหาโพธิสัตว์อวโลกิเตศวร
+  templeNameEn: Guanyin Bodhisattva’s Hall
+  templeNameZh: 觀音佛宮
+  khetTh: ลาดพร้าว
+  khetEn: Lat Phrao
+  deityGroup: Guanyin
+- nanyangSiteID: bt-mb-138
+  CSFB: ''
+  CSFBmainText: ''
+  CGBappendix: ''
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้าแม่ทับทิม สะพานเหลือง (ศาลเดิม)
+  templeNameEn: Mae Thapthim Saphan Luang
+  templeNameZh: 黃橋天后聖母宮
+  khetTh: ปทุมวัน
+  khetEn: Pathum Wan
+  deityGroup: Mae Thapthim
+- nanyangSiteID: bt-mb-139
+  CSFB: ''
+  CSFBmainText: ''
+  CGBappendix: ''
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้าปึงเถ่ากง ตลาดสวนหลวงสแควร์
+  templeNameEn: ''
+  templeNameZh: ''
+  khetTh: ปทุมวัน
+  khetEn: Pathum Wan
+  deityGroup: Bentougong
+- nanyangSiteID: bt-mb-140
+  CSFB: ''
+  CSFBmainText: ''
+  CGBappendix: ''
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้าแม่ทับทิม สวนจุฬาฯ 100 ปี (ศาลใหม่)
+  templeNameEn: ''
+  templeNameZh: 天后宮
+  khetTh: ปทุมวัน
+  khetEn: Pathum Wan
+  deityGroup: Mae Thapthim
+- nanyangSiteID: bt-mb-141
+  CSFB: ''
+  CSFBmainText: ''
+  CGBappendix: ''
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้าพ่อเสือ ตั่วเหล่าเอี๊ย สามย่าน
+  templeNameEn: ''
+  templeNameZh: 玄天上帝
+  khetTh: ปทุมวัน
+  khetEn: Pathum Wan
+  deityGroup: Xuantian
+- nanyangSiteID: bt-mb-142
+  CSFB: ''
+  CSFBmainText: ''
+  CGBappendix: ''
+  DuanNo: ''
+  FrankeNo: A1.1
+  HoNo: H10
+  templeNameTh: วัดบำเพ็ญจีนพรต
+  templeNameEn: Wat Bamphen Chin Phrot (Wat Yong Hok Yi)
+  templeNameZh: 永福寺
+  khetTh: สัมพันธวงศ์
+  khetEn: Samphanthawong
+  deityGroup: ''
+- nanyangSiteID: bt-mb-143
+  CSFB: ''
+  CSFBmainText: ''
+  CGBappendix: ''
+  DuanNo: D19
+  FrankeNo: A1.6
+  HoNo: H13
+  templeNameTh: ''
+  templeNameEn: Xiangong gong
+  templeNameZh: 仙公宮
+  khetTh: สัมพันธวงศ์
+  khetEn: Samphanthawong
+  deityGroup: ''
+- nanyangSiteID: bt-mb-144
+  CSFB: ''
+  CSFBmainText: ''
+  CGBappendix: ''
+  DuanNo: ''
+  FrankeNo: A1.7
+  HoNo: H34
+  templeNameTh: ศาลเจ้าไท้ฮั้ว
+  templeNameEn: Tai Hua shengniang miao
+  templeNameZh: 泰華聖娘廟
+  khetTh: สัมพันธวงศ์
+  khetEn: Samphanthawong
+  deityGroup: Mae Thapthim
+- nanyangSiteID: bt-mb-145
+  CSFB: ''
+  CSFBmainText: ''
+  CGBappendix: ''
+  DuanNo: D1
+  FrankeNo: A1.9
+  HoNo: H1
+  templeNameTh: ''
+  templeNameEn: Wat Mangkon
+  templeNameZh: 龍蓮寺
+  khetTh: สัมพันธวงศ์
+  khetEn: Samphanthawong
+  deityGroup: Buddha
+- nanyangSiteID: bt-mb-146
+  CSFB: ''
+  CSFBmainText: ''
+  CGBappendix: cgb-39
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: H4
+  templeNameTh: ศาลเจ้าแม่ประดู่
+  templeNameEn: Chao Mae Pradu
+  templeNameZh: 新本頭媽廟
+  khetTh: สัมพันธวงศ์
+  khetEn: Samphanthawong
+  deityGroup: Tianhou
+- nanyangSiteID: bt-mb-147
+  CSFB: ''
+  CSFBmainText: ''
+  CGBappendix: ''
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: H18
+  templeNameTh: วัดอุภัยราชบำรุง (วัดญวณ ตลาดน้อย)
+  templeNameEn: Chùa Khánh Vân
+  templeNameZh: 慶雲寺
+  khetTh: สัมพันธวงศ์
+  khetEn: Samphanthawong
+  deityGroup: Buddha
+- nanyangSiteID: bt-mb-148
+  CSFB: ''
+  CSFBmainText: ''
+  CGBappendix: ''
+  DuanNo: D9
+  FrankeNo: ''
+  HoNo: H27
+  templeNameTh: วัดชัยภูมิการาม (วัดตี๊หง่านตื่อ)
+  templeNameEn: Wat Chaiyaphum Karam (Wat Ti Ngan Tue) (Chùa Tỉ Ngạn)
+  templeNameZh: 翠岸寺
+  khetTh: สัมพันธวงศ์
+  khetEn: Samphanthawong
+  deityGroup: Buddha
+- nanyangSiteID: bt-mb-149
+  CSFB: ''
+  CSFBmainText: ''
+  CGBappendix: ''
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: H33
+  templeNameTh: วัดกุศลสมาคร
+  templeNameEn: Wat Kuson Samakhon
+  templeNameZh: 普福寺
+  khetTh: สัมพันธวงศ์
+  khetEn: Samphanthawong
+  deityGroup: ''
+- nanyangSiteID: bt-mb-150
+  CSFB: ''
+  CSFBmainText: ''
+  CGBappendix: ''
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้าแม่กวนอิม
+  templeNameEn: ''
+  templeNameZh: 觀世音菩薩宮
+  khetTh: สัมพันธวงศ์
+  khetEn: Samphanthawong
+  deityGroup: Guanyin
+- nanyangSiteID: bt-mb-151
+  CSFB: ''
+  CSFBmainText: ''
+  CGBappendix: ''
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: H20?
+  templeNameTh: ศาลเจ้าแม่กวนอิม (มูลนิธิเทียนฟ้า)
+  templeNameEn: Kuan Yim Shrine
+  templeNameZh: 天華醫院
+  khetTh: สัมพันธวงศ์
+  khetEn: Samphanthawong
+  deityGroup: Guanyin
+- nanyangSiteID: bt-mb-152
+  CSFB: ''
+  CSFBmainText: ''
+  CGBappendix: ''
+  DuanNo: D8
+  FrankeNo: ''
+  HoNo: H8
+  templeNameTh: ศาลเจ้าเล่งบ๊วยเอี๊ยะ
+  templeNameEn: Leng Buai Ia Shrine
+  templeNameZh: 龍尾古廟
+  khetTh: สัมพันธวงศ์
+  khetEn: Samphanthawong
+  deityGroup: 何野雲?
+- nanyangSiteID: bt-mb-153
+  CSFB: ''
+  CSFBmainText: ''
+  CGBappendix: ''
+  DuanNo: D10
+  FrankeNo: ''
+  HoNo: H22
+  templeNameTh: วัดมงคลสมาคม
+  templeNameEn: Wat Mongkon Samakhom (Chùa Hội Khánh)
+  templeNameZh: 會慶寺
+  khetTh: สัมพันธวงศ์
+  khetEn: Samphanthawong
+  deityGroup: Buddha
+- nanyangSiteID: bt-mb-154
+  CSFB: ''
+  CSFBmainText: ''
+  CGBappendix: ''
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: H29？
+  templeNameTh: สมาคมกุศลสงเคราะห์
+  templeNameEn: ''
+  templeNameZh: 蓮邦念佛會
+  khetTh: สัมพันธวงศ์
+  khetEn: Samphanthawong
+  deityGroup: Guanyin? Doumu?
+- nanyangSiteID: bt-mb-155
+  CSFB: ''
+  CSFBmainText: ''
+  CGBappendix: ''
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ''
+  templeNameEn: ''
+  templeNameZh: 李仙師廟
+  khetTh: สัมพันธวงศ์
+  khetEn: Samphanthawong
+  deityGroup: Li Tieguai
+- nanyangSiteID: bt-mb-156
+  CSFB: ''
+  CSFBmainText: ''
+  CGBappendix: ''
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้าแม่ทับทิม
+  templeNameEn: Tianhou gong
+  templeNameZh: 天后宮
+  khetTh: สัมพันธวงศ์
+  khetEn: Samphanthawong
+  deityGroup: Tianhou
+- nanyangSiteID: bt-mb-157
+  CSFB: ''
+  CSFBmainText: ''
+  CGBappendix: cgb-30
+  DuanNo: ''
+  FrankeNo: A1.18
+  HoNo: ''
+  templeNameTh: ศาลเจ้าซำซัวก๊กอ้วง
+  templeNameEn: Sam Sue Kok Uang
+  templeNameZh: 三山國王廟
+  khetTh: บางรัก
+  khetEn: Bang Rak
+  deityGroup: Sanshan guowang 三山國王
+- nanyangSiteID: bt-mb-158
+  CSFB: ''
+  CSFBmainText: ''
+  CGBappendix: ''
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ''
+  templeNameEn: Fudeci
+  templeNameZh: 福德祠
+  khetTh: บางรัก
+  khetEn: Bang Rak
+  deityGroup: ''
+- nanyangSiteID: bt-mb-159
+  CSFB: ''
+  CSFBmainText: ''
+  CGBappendix: ''
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: วัดทิพยวารีวิหาร
+  templeNameEn: Wat Thiphaya Waree Wihan
+  templeNameZh: 甘露禅寺
+  khetTh: พระนคร
+  khetEn: Phra Nakhon
+  deityGroup: Buddha
+- nanyangSiteID: bt-mb-160
+  CSFB: ''
+  CSFBmainText: ''
+  CGBappendix: ''
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลสมเด็จพระพุทธยอดฟ้า
+  templeNameEn: King Rama 1st Temple
+  templeNameZh: 一世皇大帝聖廟
+  khetTh: พระนคร
+  khetEn: Phra Nakhon
+  deityGroup: ''
+- nanyangSiteID: bt-mb-161
+  CSFB: ''
+  CSFBmainText: ''
+  CGBappendix: ''
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้าปึงเถ่ากงม่า
+  templeNameEn: Pung Thao Kong Ma
+  templeNameZh: 本頭公媽
+  khetTh: จอมทอง
+  khetEn: Chom Thong
+  deityGroup: Bentouma
+- nanyangSiteID: bt-mb-162
+  CSFB: ''
+  CSFBmainText: ''
+  CGBappendix: ''
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้า เจ้าพี่ สุริยันต์ เกศแก้ว
+  templeNameEn: Chao Phi Suriyan Thatkae
+  templeNameZh: 南山堂...
+  khetTh: จอมทอง
+  khetEn: Chom Thong
+  deityGroup: ''
+- nanyangSiteID: bt-mb-163
+  CSFB: ''
+  CSFBmainText: ''
+  CGBappendix: ''
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้าพ่อนาคราช
+  templeNameEn: Chao Por Nakharat
+  templeNameZh: 豐隆吉廟
+  khetTh: จอมทอง
+  khetEn: Chom Thong
+  deityGroup: ''
+- nanyangSiteID: bt-mb-164
+  CSFB: ''
+  CSFBmainText: ''
+  CGBappendix: ''
+  DuanNo: D21
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ซินเฮงกง (ศาลเจ้าแม่ทับทิม)
+  templeNameEn: Chao Mae Thapthim Shrine
+  templeNameZh: 新興宮
+  khetTh: สาทร
+  khetEn: Sathon
+  deityGroup: Tianhou
+- nanyangSiteID: bt-mb-165
+  CSFB: ''
+  CSFBmainText: ''
+  CGBappendix: ''
+  DuanNo: D18
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้าพ่อกวนอู
+  templeNameEn: Chao Pho Kuan U
+  templeNameZh: 關聖帝君古廟
+  khetTh: สาทร
+  khetEn: Sathon
+  deityGroup: Guanyu
+- nanyangSiteID: bt-mb-166
+  CSFB: ''
+  CSFBmainText: ''
+  CGBappendix: ''
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: วัดศิลมะบูชาเทียนเล่งยี่
+  templeNameEn: Wat Silamabucha Tein Leng Yee
+  templeNameZh: 天龍禪寺
+  khetTh: สาทร
+  khetEn: Sathon
+  deityGroup: ''
+- nanyangSiteID: bt-mb-167
+  CSFB: ''
+  CSFBmainText: ''
+  CGBappendix: ''
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ปึงเถ่ากง เซนต์หลุยส์ (เชียงฮวด)
+  templeNameEn: Pueng Thao Kong (Chiang Huat)
+  templeNameZh: 老本頭公
+  khetTh: สาทร
+  khetEn: Sathon
+  deityGroup: Bentougong
+- nanyangSiteID: bt-mb-168
+  CSFB: ''
+  CSFBmainText: ''
+  CGBappendix: ''
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ''
+  templeNameEn: Teochiew Ancestral temple
+  templeNameZh: 潮州公祠
+  khetTh: สาทร
+  khetEn: Sathon
+  deityGroup: ''
+- nanyangSiteID: bt-mb-169
+  CSFB: ''
+  CSFBmainText: ''
+  CGBappendix: ''
+  DuanNo: D17
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้าอั้งฮุ้งเล่าโจวกง
+  templeNameEn: Ang Hung Lao Chou Kong Shrine
+  templeNameZh: 天雲壇 紅雲老祖公廟
+  khetTh: สาทร
+  khetEn: Sathon
+  deityGroup: ''
+- nanyangSiteID: bt-mb-170
+  CSFB: ''
+  CSFBmainText: ''
+  CGBappendix: ''
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ??
+  templeNameEn: ??
+  templeNameZh: 本頭公廟
+  khetTh: ยานนาวา
+  khetEn: Yan Nawa
+  deityGroup: Bentougong
+- nanyangSiteID: bt-mb-171
+  CSFB: ''
+  CSFBmainText: ''
+  CGBappendix: ''
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้าปึงเก่ากง
+  templeNameEn: Pueng Tao Kong
+  templeNameZh: 老本頭公廟
+  khetTh: ยานนาวา
+  khetEn: Yan Nawa
+  deityGroup: Bentougong
+- nanyangSiteID: bt-mb-172
+  CSFB: ''
+  CSFBmainText: ''
+  CGBappendix: ''
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้าพ่อเซียงกง
+  templeNameEn: Por Siang Kong
+  templeNameZh: 仙公宮
+  khetTh: ยานนาวา
+  khetEn: Yan Nawa
+  deityGroup: ''
+- nanyangSiteID: bt-mb-173
+  CSFB: ''
+  CSFBmainText: ''
+  CGBappendix: ''
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: สมาคมตระกูลเฮ้งแห่งประเทศไทย
+  templeNameEn: The Heng (Wang) Clanmen Association of Thailand
+  templeNameZh: 泰國王氏宗親總會
+  khetTh: ยานนาวา
+  khetEn: Yan Nawa
+  deityGroup: ''
+- nanyangSiteID: bt-mb-174
+  CSFB: ''
+  CSFBmainText: ''
+  CGBappendix: ''
+  DuanNo: D3
+  FrankeNo: A1.19
+  HoNo: ''
+  templeNameTh: 'วัดโพธิ์แมนคุณาราม(โผวมึ้งปออึงยี่, วิสุงคามสีมา) '
+  templeNameEn: Bhoman Kunaram Temple
+  templeNameZh: 敕賜普門報恩寺
+  khetTh: ยานนาวา
+  khetEn: Yan Nawa
+  deityGroup: Buddha
+- nanyangSiteID: bt-mb-175
+  CSFB: ''
+  CSFBmainText: ''
+  CGBappendix: ''
+  DuanNo: D16
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้าแม่พรหมเมศ
+  templeNameEn: Phrommet Shrine
+  templeNameZh: 本頭媽廟 (谷雞媽)
+  khetTh: ยานนาวา
+  khetEn: Yan Nawa
+  deityGroup: Bentouma
+- nanyangSiteID: bt-mb-176
+  CSFB: ''
+  CSFBmainText: ''
+  CGBappendix: ''
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลพระแม่โพสพ
+  templeNameEn: ''
+  templeNameZh: 地母聖娘
+  khetTh: ตลิ่งชัน
+  khetEn: Taling Chan
+  deityGroup: Mae Posom 地母聖娘
+- nanyangSiteID: bt-mb-177
+  CSFB: ''
+  CSFBmainText: ''
+  CGBappendix: ''
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: โรงเจโผ้วทอเกง (บางแค)
+  templeNameEn: Phow Tho Keng Shrine (ฺฺBang Khae)
+  templeNameZh: ''
+  khetTh: บางแค
+  khetEn: Bang Khae
+  deityGroup: Guanyin?
+- nanyangSiteID: bt-mb-178
+  CSFB: ''
+  CSFBmainText: ''
+  CGBappendix: ''
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: กวนอิมธรรมสถาน หนองแขม
+  templeNameEn: Guanyin Satan Nongkhaem
+  templeNameZh: 紫竹林
+  khetTh: หนองแขม
+  khetEn: Nong Khaem
+  deityGroup: Guanyin
+- nanyangSiteID: bt-mb-179
+  CSFB: ''
+  CSFBmainText: ''
+  CGBappendix: ''
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้าแป๊ะกง
+  templeNameEn: Pae Kong
+  templeNameZh: 福德伯公
+  khetTh: สวนหลวง
+  khetEn: Suan Luang
+  deityGroup: Tudigong
+- nanyangSiteID: bt-mb-180
+  CSFB: ''
+  CSFBmainText: ''
+  CGBappendix: ''
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้าปึงเถ่ากง
+  templeNameEn: Pueng Thao Kong
+  templeNameZh: 本頭古廟
+  khetTh: สวนหลวง
+  khetEn: Suan Luang
+  deityGroup: Bentougong
+- nanyangSiteID: bt-mb-181
+  CSFB: ''
+  CSFBmainText: ''
+  CGBappendix: ''
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้าป่งเถ่ากงหัวป่า
+  templeNameEn: Pong Thao Kong Hua
+  templeNameZh: 本頭公廟
+  khetTh: สวนหลวง
+  khetEn: Suan Luang
+  deityGroup: Bentougong
+- nanyangSiteID: bt-mb-182
+  CSFB: ''
+  CSFBmainText: ''
+  CGBappendix: ''
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้าพ่อเสือ
+  templeNameEn: Chao Pho Suea
+  templeNameZh: 玄天上帝
+  khetTh: ประเวศ
+  khetEn: Prawet
+  deityGroup: Xuantian
+- nanyangSiteID: bt-mb-183
+  CSFB: ''
+  CSFBmainText: ''
+  CGBappendix: ''
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: พระโพธิสัตว์ กวนอิม
+  templeNameEn: ''
+  templeNameZh: 南海觀世音菩薩
+  khetTh: ประเวศ
+  khetEn: Prawet
+  deityGroup: Guanyin
+- nanyangSiteID: bt-mb-184
+  CSFB: ''
+  CSFBmainText: ''
+  CGBappendix: ''
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้าเจียวตี้เหล่าเอี๊ยะ
+  templeNameEn: ''
+  templeNameZh: ?帝老爺廟
+  khetTh: มีนบุรี
+  khetEn: Minburi
+  deityGroup: ''
+- nanyangSiteID: bt-mb-185
+  CSFB: ''
+  CSFBmainText: ''
+  CGBappendix: ''
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้าพ่อกวนอู
+  templeNameEn: Chao Pho Kuan U
+  templeNameZh: 協天大帝
+  khetTh: มีนบุรี
+  khetEn: Minburi
+  deityGroup: Guanyu
+- nanyangSiteID: bt-mb-186
+  CSFB: ''
+  CSFBmainText: ''
+  CGBappendix: ''
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: วิหารพระโพธิสัตว์กวนอิม มีนบุรี
+  templeNameEn: Wiharn Phra Avalokiteshvara
+  templeNameZh: 峰民善堂
+  khetTh: มีนบุรี
+  khetEn: Minburi
+  deityGroup: Guanyin
+- nanyangSiteID: bt-mb-187
+  CSFB: ''
+  CSFBmainText: ''
+  CGBappendix: ''
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้าหนองจอก (ปุงเถ้ากง)
+  templeNameEn: ''
+  templeNameZh: ''
+  khetTh: หนองจอก
+  khetEn: Nong Chok
+  deityGroup: Bentougong
+- nanyangSiteID: bt-mb-188
+  CSFB: ''
+  CSFBmainText: ''
+  CGBappendix: ''
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: โรงเจฮะเฮงตั้ว // เซียนหัวตะเข้ // เซียนแปะโค้ว หัวตะเข้
+  templeNameEn: ''
+  templeNameZh: 合興壇
+  khetTh: ลาดกระบัง
+  khetEn: Lat Krabang
+  deityGroup: ''
+- nanyangSiteID: bt-mb-189
+  CSFB: ''
+  CSFBmainText: ''
+  CGBappendix: ''
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้า ซำซัวก๊กอ้วง
+  templeNameEn: Sam sua gok uang
+  templeNameZh: 婆？大廟
+  khetTh: บางกอกใหญ่
+  khetEn: Bangkok Yai
+  deityGroup: Sanshan guowang 三山國王
+- nanyangSiteID: bt-mb-190
+  CSFB: ''
+  CSFBmainText: ''
+  CGBappendix: ''
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้าเก้าฟ้า
+  templeNameEn: ''
+  templeNameZh: 九天佛堂
+  khetTh: บางกอกน้อย
+  khetEn: Bangkok Noi
+  deityGroup: ''
+- nanyangSiteID: bt-mb-191
+  CSFB: ''
+  CSFBmainText: ''
+  CGBappendix: ''
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้าพ่อฉางเกลือ
+  templeNameEn: Chao Por Chang Klua Shrine
+  templeNameZh: 鄭皇爺公
+  khetTh: บางกอกน้อย
+  khetEn: Bangkok Noi
+  deityGroup: Taksin
+- nanyangSiteID: bt-mb-192
+  CSFB: ''
+  CSFBmainText: ''
+  CGBappendix: ''
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้าพระอวโลกิเตศวรโพธิสัตว์
+  templeNameEn: Phra Awalokiitesuan Phothisat Shrine
+  templeNameZh: 觀世音菩薩
+  khetTh: บางกอกน้อย
+  khetEn: Bangkok Noi
+  deityGroup: Guanyin
+- nanyangSiteID: bt-mb-193
+  CSFB: ''
+  CSFBmainText: ''
+  CGBappendix: ''
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้าแม่ทับทิม
+  templeNameEn: Chao Mae Tubtim Shrine
+  templeNameZh: 地先聖媽
+  khetTh: บางกอกน้อย
+  khetEn: Bangkok Noi
+  deityGroup: Mae Thapthim
+- nanyangSiteID: bt-mb-194
+  CSFB: ''
+  CSFBmainText: ''
+  CGBappendix: ''
+  DuanNo: ''
+  FrankeNo: ''
+  HoNo: ''
+  templeNameTh: ศาลเจ้า เล่าปึงเถ้ากง
+  templeNameEn: ''
+  templeNameZh: 老本頭公廟
+  khetTh: บางกอกน้อย
+  khetEn: Bangkok Noi
+  deityGroup: Bentougong
