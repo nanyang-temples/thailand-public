@@ -1,0 +1,26 @@
+projectName: Chinese Temples in Bangkok
+
+description: |
+  ## Survey of Chinese Temples in Bangkok (2022-2023)
+
+  Starting out as a follow-up study of W. Franke's documentation of Chinese Epigraphy in Bangkok, this survey maps more than 199 Chinese temple sites. It does not include small roadside shrines. The vast majority of the temples are freestanding buildings with doors and opening hours. The survey builds on previous lists. However, none of these were geo-referenced nor did they (with the exception of Pornpan-Mak 1994 and Duan 1996) include Chinese characters. The lists cited in the .yaml include:
+  CSFB : Number of the temple in the appendix of "Chinese Shrines - The Faith of Bangkok" (2016)
+  CSFBmainText : There is a longer description of the temple in the main text of "ศาลเจ้า ศรัทธา สถาน แห่ง บางกอก Chinese Shrines - The Faith of Bangkok" (2016)
+  CGBappendix : Number of the temple in the appendix of "เทพเจ้าจีนในกรุงเทพฯ [Chinese Gods in Bangkok]" (2022)
+  Pornpan-MakNo: Number of the temple in Pornpan Juntaronanont (劉麗芳) & Lau-Fong Mak (麥留芳). 1994. 曼谷與新加坡華人廟宇及宗教習俗的調查 [Survey of the Temples and Religious Customs of the Chinese in Bangkok and Singapore]. Taipei: Academia Sinica.
+  DuanNo: Number of the temple in Duan, Lisheng. 1996. 段立生. 1996. Taiguo de zhongshi simiao 泰國的中式寺廟 [The Chinese temples of Thailand]. Bangkok: Pin Yo Printing.
+  FrankeNo: ID of the temple in Franke, Wolfgang. 1998. Chinese Epigraphic Materials in Thailand (Taiguo Huawen mingke huibian 泰國華文銘刻匯編).
+  HoNo: Number of the temple in Ho, Chuimei. 1995. “Chinese Temples in Bangkok. Sources of Data for 19th-Century Sino-Thai Communities.” Journal of The Siam Society Vol. 83, Parts 1 and 2 (1995).
+  Pornpan-MakDate: Foundation data of the temple according to Pornpan Juntaronanont (劉麗芳) & Lau-Fong Mak (麥留芳). 1994. 曼谷與新加坡華人廟宇及宗教習俗的調查 [Survey of the Temples and Religious Customs of the Chinese in Bangkok and Singapore]. Taipei: Academia Sinica.
+  The survey was conducted 2022-2023. Currently the test set contains only 100 sites.
+  A publication of the findings was published as: Marcus BINGENHEIMER, Paul MCBAIN: “In the Footsteps of Wolfgang Franke – Revisiting and Surveying Chinese Temples in Bangkok” Journal of the Siam Society Vol.112-1: 49–70. https://so06.tci-thaijo.org/index.php/pub_jss/article/view/274764
+
+date: 2024-07-29
+
+contact: m.bingenheimer@gmail.com
+
+credits: Marcus Bingenheimer
+
+license:
+  name: CC-BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0/
